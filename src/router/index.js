@@ -1,7 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Project from '../views/Project.vue'
 
 const routes = [
+  {
+    path: '/',
+    redirect: { name: 'Project' }
+  },
   {
     path: '/project',
     name: 'Project',
