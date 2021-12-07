@@ -1,19 +1,9 @@
-# vue-consume-api
+# vue-portafolio
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tecnologias Usadas
+- VueJs
+- vue-router
+- PrimeVue
+- Api GitHub
+### Sitio de Prueba
+[Ver Página](https://patricioaguilarvargas.github.io/vue-portafolio/).
