@@ -1,7 +1,8 @@
 # vue-portafolio
 
 ## Tecnologias Usadas
-- VueJs
+- VueJs3
+- Composition Api
 - vue-router
 - PrimeVue
 - Api GitHub
